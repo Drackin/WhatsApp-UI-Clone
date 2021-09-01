@@ -1,0 +1,86 @@
+{
+    "talking_users": [
+        {
+            "username": "Drackin",
+            "user_icon": "https://avatars.githubusercontent.com/u/78258229?v=4",
+            "messages": [
+                {
+                    "author_name": "You",
+                    "content": "Yo! What's Up Bro!"
+                },
+                {
+                    "author_name": "Drackin",
+                    "content": "Thanks Bro!"
+                }
+            ]
+        },
+        {
+            "username": "Jeff Bezos",
+            "user_icon": "https://pbs.twimg.com/profile_images/669103856106668033/UF3cgUk4_400x400.jpg",
+            "messages": [
+                {
+                    "author_name": "You",
+                    "content": "Hey Mr. Bezos! How are you!"
+                },
+                {
+                    "author_name": "Jeff Bezos",
+                    "content": "I'm fine, and you?"
+                },
+                {
+                    "author_name": "You",
+                    "content": "Thanks!"
+                }
+            ]
+        },
+        {
+            "username": "Elon Musk",
+            "user_icon": "https://frigbo.com/sites/default/files/post/images/elon-musk.jpg",
+            "messages": [
+                {
+                    "author_name": "You",
+                    "content": "Hello Elon! Will you take me with you to the moon?"
+                },
+                {
+                    "author_name": "Elon Musk",
+                    "content": "Yes, Sure!"
+                },
+                {
+                    "author_name": "You",
+                    "content": "Thanks! I'm waiting!"
+                }
+            ]
+        },
+        {
+            "username": "Bill Gates",
+            "user_icon": "https://pbs.twimg.com/profile_images/1414439092373254147/JdS8yLGI_400x400.jpg",
+            "messages": [
+                {
+                    "author_name": "You",
+                    "content": "Hello Mister! How is your business going?"
+                },
+                {
+                    "author_name": "Jeff Bezos",
+                    "content": "Very Good! Thank You :)"
+                },
+                {
+                    "author_name": "You",
+                    "content": "Your Welcome!"
+                }
+            ]
+        },
+        {
+            "username": "Mark Zuckerberg",
+            "user_icon": "https://scontent.fyei6-5.fna.fbcdn.net/v/t1.6435-9/79515135_10111007623880301_5111576226921709568_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8zWAf5hBjfoAX8V5G3Q&_nc_ht=scontent.fyei6-5.fna&oh=617e201855d8ed46e7b5d6872bd7c173&oe=6153A6D6",
+            "messages": [
+                {
+                    "author_name": "You",
+                    "content": "Yo! What's Up Bro!"
+                },
+                {
+                    "author_name": "Drackin",
+                    "content": "Thanks Bro!"
+                }
+            ]
+        }
+    ]
+}
