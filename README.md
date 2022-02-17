@@ -8,7 +8,7 @@ This repo protected by Licence, please do not share without permission.
 
 ## It was not made for any profit.
 
-### It's Just Interface of WhatsApp. Not The App Itself.
+### It's Just UI of WhatsApp. Not The App Itself.
 
 # How to Setup?
 

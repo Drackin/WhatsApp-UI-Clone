@@ -1,12 +1,12 @@
 <template>
-  <div>
-    <div class="flex">
+  <div class="w-screen h-screen">
+    <div class="flex w-full h-1/10">
       <UserNavbar />
       <Navbar />
     </div>
-    <div class="flex">
-      <TalkList :talks="talks" class="fixed"/>
-      <Messages class="fixed ml-102.5"/>
+    <div class="flex w-full h-9/10">
+      <TalkList :talks="talks"/>
+      <Messages/>
     </div>
   </div>
 </template>

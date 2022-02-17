@@ -1,5 +1,5 @@
 <template>
-  <div class="w-[30%] bg-[#2a2f32] h-16 flex items-center select-none" id="user-navbar">
+  <div class="w-[30%] bg-[#202c33] h-full flex items-center select-none" id="user-navbar">
     <img src="https://avatars.githubusercontent.com/u/78258229?v=4" class="cursor-pointer w-[2.75rem] h-[2.75rem] rounded-full ml-4">
     <button class="material-icons md-light md-mid ml-53" title="Status">motion_photos_on</button>
     <button class="material-icons md-light md-mid ml-5" title="New chat">chat</button>
